@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/SamirPaulb/autocomplete](https://github.com/SamirPaulb/autocomplete)
-- Live Site URL: [https://samirpaul.in/autocomplete](https://samirpaulb.github.io/autocomplete)
+- Solution URL: [https://github.com/SubasriSK/Auto-Complete_Feature](https://github.com/SubasriSK/Auto-Complete_Feature)
+- Live Site URL: [https://subasrisk.github.io/Auto-Complete_Feature](https://subasrisk.github.io/Auto-Complete_Feature)
 
 ## My process
 
@@ -52,4 +52,4 @@ I learned how the Trie data structure works and how it can be used to complete a
 
 ## Author
 
-- [Subasri SK](https://samirpaulb.github.io)
+- [Subasri SK](https://SubasriSK.github.io)
