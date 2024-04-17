@@ -52,4 +52,4 @@ I learned how the Trie data structure works and how it can be used to complete a
 
 ## Author
 
-- [Subasri SK](https://SubasriSK.github.io)
+- [Subasri SK]
